@@ -9,6 +9,7 @@ import { RomanNumeralsService } from './roman-numerals.service';
 })
 
 export class AppComponent {
+  title = 'angular-testing';
   num: number;
   response: string;
 
